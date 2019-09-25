@@ -4,7 +4,7 @@
 
 <br />
 
-## Espaço para divulgação das vagas em TI na Avec.
+## Espaço para divulgação das vagas em TI na Avec
 
 ### Sobre a Avec
 
