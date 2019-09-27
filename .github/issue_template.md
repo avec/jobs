@@ -12,7 +12,7 @@ A experiência de pedir comida e táxi e até de alugar um imóvel já foram red
 
 Entre várias atividades, você será peça chave no desenvolvimento do nosso novo produto baseado em uma arquitetura de microsserviços com uma stack de tecnologias e ferramentas de última geração. Clique [aqui](https://stackshare.io/avec) e conheça nossa stack atual.
 
-No final das contas, seu trabalho é facilitar a vida dos clientes e dos membros do seu squad. O quanto de tempo se ganha de não ter que navegar em um backend mal feito, não intuitivo e lento? Tempo que poderia ser gasto com família e amigos. Seja a pessoa a dar esse presente para eles!
+No final das contas, seu trabalho é facilitar a vida dos clientes e dos membros do seu squad. O quanto de tempo se ganha de não ter que navegar em um back-end mal feito, não intuitivo e lento? Tempo que poderia ser gasto com família e amigos. Seja a pessoa a dar esse presente para eles!
 
 
 
@@ -47,7 +47,7 @@ No final das contas, seu trabalho é facilitar a vida dos clientes e dos membros
 
 ## :heavy_check_mark: Responsabilidades
 
-- Construir apis e serviços backend utilizando Node.js
+- Construir apis e serviços back-end utilizando Node.js
 - Contribuir em decisões de arquitetura do projeto
 - Integrar serviços third-party
 - Priorizar e resolver bugs reportados em produção
