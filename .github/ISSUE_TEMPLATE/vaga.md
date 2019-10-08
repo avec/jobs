@@ -1,13 +1,13 @@
 ---
-name: Vaga
-about: Template padrão Avec.
+name: Template 1
+about: Template 1
 title: 'Ex: Desenvolvedor Back-End Pleno'
 labels: ''
 assignees: ''
 
 ---
 
-# Nome da Vaga
+# Desenvolvedor Back-End Pleno
 
 
 
@@ -66,9 +66,9 @@ No final das contas, seu trabalho é facilitar a vida dos clientes e dos membros
 
 ## :black_nib: Contratação
 
+- **?k** ~ **?k**
 - PJ
 - Presencial
-- ?k - ?k
 
 
 
